@@ -1,0 +1,5 @@
+Gaussian NB Metrics:
+{'accuracy': 0.8919402985074627, 'precision': 0.5653409090909091, 'recall': 0.8766519823788547, 'f1': 0.687392055267703}
+
+Multinomial NB Metrics:
+{'accuracy': 0.9725373134328358, 'precision': 0.994535519125683, 'recall': 0.801762114537445, 'f1': 0.8878048780487805}
