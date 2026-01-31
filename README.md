@@ -1,5 +1,7 @@
 # Spam Email Detection System 📧
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spam-email-detection-system.streamlit.app/)
+
 A machine learning project to detect spam emails using Naive Bayes (Multinomial & Gaussian). This system allows users to classify emails as **Spam** or **Ham** (Not Spam) through a Python script or an interactive Streamlit Web UI.
 
 ![Confusion Matrix](confusion_matrix_multinomial.png)
